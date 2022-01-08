@@ -1,0 +1,1 @@
+truncate table `msen-gcloud.temp.gold_weekly_data`;

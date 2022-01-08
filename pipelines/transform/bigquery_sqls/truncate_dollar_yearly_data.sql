@@ -1,0 +1,1 @@
+truncate table `msen-gcloud.temp.dollar_yearly_data`;

@@ -1,0 +1,16 @@
+name: personal_investment_insights
+channels:
+  - defaults
+dependencies:
+  - python==3.7.4
+  - pip==19.0.3
+  - pip:
+    - requests==2.25.1
+    - beautifulsoup4==4.9.3
+    - pandas==1.2.3
+    - dagster==0.10.9
+    - dagit==0.10.9
+    - dagster-pandas==0.10.9
+    - google-cloud==0.34.0
+    - google-cloud-storage==1.36.2
+    - google-cloud-bigquery==2.11.0
